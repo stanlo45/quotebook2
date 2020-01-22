@@ -1,8 +1,5 @@
 When taxes are due, Americans tend to feel quite bled-white and blue.
 
 
-<<<<<<< HEAD
 I like red
-=======
 I like green
->>>>>>> colour
